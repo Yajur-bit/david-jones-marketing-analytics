@@ -1,4 +1,4 @@
-# David Jones EOFY Marketing Analytics — SQL Database Design & BI
+# David Jones EOFY Marketing Analytics - SQL Database Design & BI
 
 A relational database and analytics project modelling the full customer
 journey for a David Jones end-of-financial-year marketing campaign.
@@ -16,8 +16,8 @@ CMO-level campaign insights from customer, transaction, and channel data.
 MySQL · SQL · relational data modelling
 
 ## Repository Contents
-- `schema.sql` — table definitions for the 12-entity database
-- `queries.sql` — the 10 analytical queries with comments
+- `schema.sql` - table definitions for the 12-entity database
+- `queries.sql` - the 10 analytical queries with comments
 - `er-diagram.png` — entity-relationship diagram (if included)
 - `report.pdf` — written analysis and findings (if included)
 
